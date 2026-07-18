@@ -774,24 +774,6 @@ Open for freelance projects, collaborations and developer opportunities.
 <div align="center">
 
 
-### 💡 Building digital experiences with clean code and creativity.
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer">
-
-
-</div>
-
-
-
-
-<div align="center">
-
-
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250">
-
-
-<br>
 
 
 ### 🚀 Building the web with creativity & engineering.
