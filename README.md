@@ -1,14 +1,16 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0f172a&text=MAHEDI%20HASAN%20BOKUL&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=280&section=header&text=MAHEDI%20HASAN%20BOKUL&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-<br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=Junior+WordPress+Developer;Elementor+%7C+WooCommerce+Expert;CSE+Student+%7C+Web+Developer;Python+%7C+Django+Developer;Cyber+Security+Explorer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=27&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=850&lines=Junior+WordPress+Developer;Elementor+%7C+WooCommerce+Expert;Building+Modern+Web+Experiences;Python+%7C+Django+Developer;Cyber+Security+Explorer"/>
+
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=MHBOKUL&style=for-the-badge&label=PROFILE+VIEWS&color=38BDF8"/>
+
+<img src="https://komarev.com/ghpvc/?username=MHBOKUL&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS"/>
+
 
 </div>
 
@@ -18,41 +20,41 @@
 
 <div align="center">
 
-# 🚀 Welcome To My Digital Portfolio
+## 👋 Welcome To My Digital World
 
 </div>
 
 
-<img align="right" width="380" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3d5YjB5Z3V1Y3h5d2E0dGZ5c2R5c3J6aWJ4bWZ2aG1qY2F3eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif">
+<img align="right" width="380" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
 
 
 ## 👨‍💻 About Me
 
 
-Hi, I'm **Mahedi Hasan Bokul**.
+Hello! I'm **Mahedi Hasan Bokul**.
 
 A Computer Science Engineer and Junior WordPress Developer from Bangladesh.
 
-I create modern websites, eCommerce platforms, and business solutions using WordPress ecosystem.
+I create modern websites, eCommerce solutions, and business platforms using WordPress ecosystem.
 
 
-### Current Focus
+### 🚀 Currently Working With
 
-🌐 WordPress Development  
-🎨 Elementor Design  
-🛒 WooCommerce Solutions  
-⚡ Website Optimization  
-🐍 Python Development  
-🔐 Cyber Security  
+- 🌐 WordPress Development
+- 🎨 Elementor Pro
+- 🛒 WooCommerce
+- ⚡ Website Optimization
+- 🐍 Python & Django
+- 🔐 Cyber Security
 
 
-<br clear="right"/>
+<br clear="right">
 
 
 ---
 
 
-# 🧠 Professional Skills
+# 💎 Professional Skills
 
 
 <div align="center">
@@ -60,62 +62,103 @@ I create modern websites, eCommerce platforms, and business solutions using Word
 
 <table>
 
+
 <tr>
 
 
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 
-## 🌐 WordPress Development
+<h3>🌐 WordPress</h3>
 
 
-<img src="https://cdn-icons-png.flaticon.com/512/174/174881.png" width="60">
+<img src="https://cdn-icons-png.flaticon.com/512/174/174881.png" width="55">
 
 
-✔ Elementor Pro  
-✔ Elementor Custom Design  
-✔ WooCommerce  
-✔ Crocoblock  
-✔ JetEngine  
-✔ JetSmartFilters  
-✔ JetBooking  
-✔ JetAppointment  
-✔ LearnDash LMS  
-✔ Tutor LMS  
-✔ Membership Website  
-✔ Custom Theme Setup  
-✔ Plugin Configuration  
-✔ ACF Custom Fields  
-✔ Custom Post Types  
-✔ WPML Multilingual Setup  
-✔ WordPress Security  
-✔ Speed Optimization  
+<br>
+
+
+✔ Elementor Pro
+
+✔ WooCommerce
+
+✔ Crocoblock
+
+✔ JetEngine
+
+✔ JetSmartFilters
+
+✔ JetBooking
+
+✔ JetAppointment
+
+✔ ACF
+
+✔ Custom Post Type
 
 
 </td>
 
 
-<td width="50%" valign="top">
+
+<td width="33%" valign="top">
 
 
-## 💻 Web Development
+<h3>🎨 Website Builder</h3>
 
 
-<img src="https://cdn-icons-png.flaticon.com/512/1006/1006363.png" width="60">
+<img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="55">
 
 
-✔ HTML5  
-✔ CSS3  
-✔ JavaScript  
-✔ PHP  
-✔ Python  
-✔ Django  
-✔ MySQL  
-✔ REST API  
-✔ Responsive Design  
-✔ Git & GitHub  
-✔ Database Management  
-✔ UI/UX Implementation  
+<br>
+
+
+✔ Landing Page Design
+
+✔ Business Website
+
+✔ Membership Website
+
+✔ LMS Website
+
+✔ LearnDash
+
+✔ Tutor LMS
+
+✔ Responsive Design
+
+✔ UI/UX
+
+
+</td>
+
+
+
+<td width="33%" valign="top">
+
+
+<h3>🛒 E-Commerce</h3>
+
+
+<img src="https://cdn-icons-png.flaticon.com/512/891/891462.png" width="55">
+
+
+<br>
+
+
+✔ Product Setup
+
+✔ Payment Gateway
+
+✔ Checkout Optimization
+
+✔ FunnelKit
+
+✔ Cart Optimization
+
+✔ Shipping Setup
+
+✔ Store Customization
 
 
 </td>
@@ -128,43 +171,87 @@ I create modern websites, eCommerce platforms, and business solutions using Word
 <tr>
 
 
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 
-## 🛒 E-Commerce
+<h3>💻 Development</h3>
 
 
-<img src="https://cdn-icons-png.flaticon.com/512/891/891462.png" width="60">
+<img src="https://cdn-icons-png.flaticon.com/512/1006/1006363.png" width="55">
 
 
-✔ WooCommerce Store  
-✔ Product Management  
-✔ Payment Gateway Setup  
-✔ Checkout Optimization  
-✔ Funnel Builder  
-✔ Cart Optimization  
-✔ Shipping Setup  
-✔ Conversion Landing Page  
+<br>
+
+
+✔ HTML5
+
+✔ CSS3
+
+✔ JavaScript
+
+✔ PHP
+
+✔ Python
+
+✔ Django
+
+✔ MySQL
 
 
 </td>
 
 
-<td width="50%" valign="top">
+
+<td width="33%" valign="top">
 
 
-## 🔐 Security & Research
+<h3>🔐 Security</h3>
 
 
-<img src="https://cdn-icons-png.flaticon.com/512/6195/6195699.png" width="60">
+<img src="https://cdn-icons-png.flaticon.com/512/6195/6195699.png" width="55">
 
 
-✔ Linux Basics  
-✔ Network Security  
-✔ SOC Fundamentals  
-✔ Digital Forensics  
-✔ Vulnerability Awareness  
-✔ Web Security  
+<br>
+
+
+✔ SOC Fundamentals
+
+✔ Digital Forensics
+
+✔ Linux
+
+✔ Network Security
+
+✔ Web Security
+
+
+</td>
+
+
+
+<td width="33%" valign="top">
+
+
+<h3>⚙ Tools</h3>
+
+
+<img src="https://cdn-icons-png.flaticon.com/512/1055/1055686.png" width="55">
+
+
+<br>
+
+
+✔ Git
+
+✔ GitHub
+
+✔ VS Code
+
+✔ Figma
+
+✔ cPanel
+
+✔ Hosting Management
 
 
 </td>
@@ -182,13 +269,13 @@ I create modern websites, eCommerce platforms, and business solutions using Word
 ---
 
 
-# 🛠️ Technology Stack
+# 🛠 Technology Stack
 
 
 <div align="center">
 
 
-<img src="https://skillicons.dev/icons?i=wordpress,php,html,css,js,python,django,mysql,git,github,linux,vscode,figma&perline=7"/>
+<img src="https://skillicons.dev/icons?i=wordpress,php,html,css,js,python,django,mysql,git,github,linux,vscode,figma&perline=7">
 
 
 </div>
@@ -212,17 +299,21 @@ I create modern websites, eCommerce platforms, and business solutions using Word
 <td width="50%">
 
 
-## 🌎 WordPress Business Websites
+## 🌎 WordPress Projects
 
 
-Professional website solutions:
+Professional websites:
 
 
-✨ Elementor Pro  
-✨ WooCommerce  
-✨ LMS Platform  
-✨ Membership System  
-✨ Performance Optimization  
+✨ Business Website
+
+✨ WooCommerce Store
+
+✨ Membership Platform
+
+✨ LMS Website
+
+✨ Elementor Custom Design
 
 
 </td>
@@ -232,17 +323,19 @@ Professional website solutions:
 <td width="50%">
 
 
-
 ## 🎓 University Management System
 
 
-Django based application:
+Django Application:
 
 
-✨ Student Management  
-✨ Result System  
-✨ GPA Calculation  
-✨ Transcript Generator  
+✨ Student Management
+
+✨ Result Processing
+
+✨ GPA Calculation
+
+✨ Transcript Generator
 
 
 </td>
@@ -261,29 +354,34 @@ Django based application:
 ## 🤖 AI Passport Photo Studio
 
 
-Python AI Application:
+Python AI Project:
 
 
-✨ Face Detection  
-✨ Background Removal  
-✨ Image Processing  
+✨ Face Detection
+
+✨ Background Removal
+
+✨ Image Processing
 
 
 </td>
 
 
+
 <td width="50%">
 
 
-## 🔐 Cyber Security Lab
+## 🔐 Security Research
 
 
 Learning:
 
 
-✨ SOC Tools  
-✨ Network Security  
-✨ Digital Forensics  
+✨ SOC Tools
+
+✨ Network Security
+
+✨ Digital Forensics
 
 
 </td>
@@ -307,31 +405,19 @@ Learning:
 <div align="center">
 
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MHBOKUL&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MHBOKUL&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MHBOKUL&show_icons=true&theme=tokyonight&hide_border=true">
 
 
 <br><br>
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHBOKUL&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=MHBOKUL&theme=tokyonight&hide_border=true">
 
 
-</div>
+<br><br>
 
 
----
-
-
-# 🐍 Contribution Snake
-
-
-<div align="center">
-
-
-<img src="https://raw.githubusercontent.com/MHBOKUL/MHBOKUL/output/github-contribution-grid-snake-dark.svg">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHBOKUL&layout=compact&theme=tokyonight&hide_border=true">
 
 
 </div>
@@ -346,7 +432,7 @@ Learning:
 <div align="center">
 
 
-<img src="https://github-profile-trophy.vercel.app/?username=MHBOKUL&theme=tokyonight&no-frame=true&row=1">
+<img src="https://github-profile-trophy.vercel.app/?username=MHBOKUL&theme=tokyonight&no-frame=true&margin-w=10">
 
 
 </div>
@@ -363,13 +449,14 @@ Learning:
 
 <a href="https://github.com/MHBOKUL">
 
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
 
 
 </a>
 
 
-<a href="#">
+<a href="https://linkedin.com">
+
 
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
 
@@ -378,6 +465,7 @@ Learning:
 
 
 <a href="#">
+
 
 <img src="https://img.shields.io/badge/Portfolio-22C55E?style=for-the-badge&logo=googlechrome">
 
@@ -388,16 +476,16 @@ Learning:
 </div>
 
 
-<br>
+<br><br>
 
 
 <div align="center">
 
 
-### ⚡ Build. Design. Innovate.
+### ⚡ Build • Design • Innovate
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0f172a&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=120&section=footer">
 
 
 </div>
