@@ -62,7 +62,7 @@ My goal is to build digital products that are:
 </td>
 
 
-<td width="35%">
+<td width="100%">
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=MHBOKUL&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github"/>
