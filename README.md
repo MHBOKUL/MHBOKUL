@@ -776,6 +776,18 @@ Open for freelance projects, collaborations and developer opportunities.
 
 
 
+
+
+
+
+<div align="center">
+
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250">
+
+
+<br>
+
 ### 🚀 Building the web with creativity & engineering.
 
 
