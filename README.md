@@ -1,20 +1,16 @@
-<!-- ================= HERO ================= -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Mahedi%20Hasan%20Bokul&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=WordPress%20Developer%20%7C%20WooCommerce%20Engineer%20%7C%20Python%20%Django%20Developer&descAlignY=58&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Mahedi%20Hasan%20Bokul&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=WordPress%20Developer%20%7C%20WooCommerce%20Engineer%20%7C%20Python%20Django%20Developer&descAlignY=60&descSize=17"/>
+
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=850&lines=Building+Modern+WordPress+Websites;Creating+WooCommerce+Ecommerce+Solutions;Developing+Python+%26+Django+Applications;Exploring+Cyber+Security+%26+SOC+Operations"/>
+
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=700&color=A78BFA&center=true&vCenter=true&width=800&lines=Building+modern+WordPress+websites;Creating+WooCommerce+eCommerce+solutions;Developing+custom+Python+%2F+Django+applications;Exploring+Cyber+Security+%26+SOC+operations"/>
 
-<br><br>
+<img src="https://komarev.com/ghpvc/?username=MHBOKUL&style=for-the-badge&color=6D28D9"/>
 
-<img src="https://komarev.com/ghpvc/?username=MHBOKUL&style=flat-square&color=A78BFA&label=PROFILE+VIEWS"/>
-
-<img src="https://img.shields.io/github/followers/MHBOKUL?style=flat-square&color=6D28D9&label=Followers"/>
-
-<img src="https://img.shields.io/badge/Available-Freelance-16A34A?style=flat-square"/>
 
 </div>
 
@@ -22,51 +18,58 @@
 <br>
 
 
-<!-- ================= ABOUT ================= -->
-
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 
 <table>
 
 <tr>
 
-<td width="65%" valign="top">
+<td width="65%">
 
 
-Hello! I'm **Mahedi Hasan Bokul**, a Computer Science Engineer and Junior WordPress Developer.
-
-I specialize in building modern, responsive, and performance-focused websites using the **WordPress ecosystem**.
-
-My main expertise includes:
-
-- WordPress Website Development
-- Elementor & Custom UI Design
-- WooCommerce Store Development
-- Membership & LMS Solutions
-- Crocoblock JetEngine Dynamic Websites
-- Python & Django Applications
-- Basic Cyber Security & SOC Practices
+<img align="right" width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
-Currently improving my skills in:
+Hello! I'm **Mahedi Hasan Bokul** 👋
 
-- Advanced WordPress Development
-- Server Security
-- Automation Workflows
-- Security Monitoring
+I'm a Computer Science Engineer and Junior WordPress Developer from Bangladesh.
+
+
+I specialize in creating:
+
+✨ Professional WordPress websites  
+🛒 WooCommerce ecommerce platforms  
+🎨 Elementor custom designs  
+⚡ Dynamic websites with Crocoblock JetEngine  
+🐍 Python & Django applications  
+🔐 Security-focused web solutions  
+
+
+Currently learning:
+
+- SOC Analyst fundamentals
+- Linux Security
+- Web Application Security
+- Automation Workflow
+
+
+My goal is to build digital products that are:
+
+**Fast 🚀 Secure 🔐 Scalable 📈**
 
 
 </td>
 
 
-<td width="35%" align="center">
+<td width="35%">
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=MHBOKUL&show_icons=true&theme=radical&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MHBOKUL&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github"/>
 
 
 </td>
+
 
 </tr>
 
@@ -77,43 +80,46 @@ Currently improving my skills in:
 <br>
 
 
-<!-- ================= SKILLS ================= -->
-
-## 🛠️ Technical Skills
+# 🧰 Tech Stack
 
 
 <div align="center">
 
 
-<img src="https://skillicons.dev/icons?i=wordpress,php,html,css,js,python,django,mysql,git,github,linux,vscode,figma&theme=dark&perline=7"/>
+<img src="https://skillicons.dev/icons?i=wordpress,php,html,css,js,python,django,mysql,git,github,linux,vscode,figma&theme=dark&perline=7">
 
 
 </div>
 
 
+
 <br>
 
 
-| Category | Technologies |
-|---|---|
+## ⚙️ Technologies
+
+
+| Area | Tools |
+|-|-|
 | CMS | WordPress, Elementor, Crocoblock, JetEngine |
-| Ecommerce | WooCommerce, FunnelKit, Payment Gateway Integration |
-| LMS | Tutor LMS, LearnDash, Membership Systems |
+| Ecommerce | WooCommerce, FunnelKit, Payment Integration |
+| LMS | Tutor LMS, LearnDash, Membership System |
 | Backend | Python, Django, MySQL |
 | Frontend | HTML5, CSS3, JavaScript |
 | Tools | Git, GitHub, Linux, Figma |
-| Security | OWASP Basics, Linux Security, SOC Fundamentals |
+| Security | OWASP, Linux Security, SOC Fundamentals |
+
 
 
 <br>
 
 
-<!-- ================= EXPERTISE ================= -->
 
-## 🚀 Expertise
+# 🚀 What I Do
 
 
 <table>
+
 
 <tr>
 
@@ -123,25 +129,31 @@ Currently improving my skills in:
 
 ## 🌐
 
+
 ### WordPress Development
 
-Building professional business websites, dynamic platforms, WooCommerce stores, and custom Elementor designs.
+
+Building modern business websites, ecommerce stores, membership websites and dynamic platforms.
 
 
 </td>
+
 
 
 <td width="33%" align="center">
 
 
-## ⚙️
+## ⚡
 
-### Backend Development
 
-Developing database-driven applications using Python, Django, and MySQL with clean architecture.
+### Full Stack Development
+
+
+Creating database-driven applications using Django, Python and MySQL.
 
 
 </td>
+
 
 
 <td width="33%" align="center">
@@ -149,15 +161,18 @@ Developing database-driven applications using Python, Django, and MySQL with cle
 
 ## 🔐
 
-### Security Mindset
 
-Learning defensive security, vulnerability assessment, Linux security, and SOC operations.
+### Cyber Security
+
+
+Learning defensive security, vulnerability testing and SOC operations.
 
 
 </td>
 
 
 </tr>
+
 
 </table>
 
@@ -166,13 +181,12 @@ Learning defensive security, vulnerability assessment, Linux security, and SOC o
 <br>
 
 
-<!-- ================= PROJECTS ================= -->
+# 💼 Featured Projects
 
-
-## 🚀 Featured Projects
 
 
 <table>
+
 
 
 <tr>
@@ -181,15 +195,18 @@ Learning defensive security, vulnerability assessment, Linux security, and SOC o
 <td width="50%">
 
 
-### 🥭 Mango Ecommerce Platform
+## 🥭 Mango Ecommerce Website
 
-Complete WooCommerce based online mango store with:
 
-- Product variations
+Complete WooCommerce ecommerce solution:
+
+- Product variation system
 - Checkout optimization
-- Payment integration
 - Landing page design
+- Payment integration
 
+
+**Stack**
 
 `WordPress` `WooCommerce` `Elementor`
 
@@ -200,15 +217,18 @@ Complete WooCommerce based online mango store with:
 <td width="50%">
 
 
-### 🎓 University Management System
+## 🎓 University Management System
 
-Academic management platform featuring:
+
+Academic management platform:
 
 - Student management
 - Result processing
 - GPA calculation
 - PDF transcript generation
 
+
+**Stack**
 
 `Python` `Django` `MySQL`
 
@@ -223,18 +243,21 @@ Academic management platform featuring:
 <tr>
 
 
+
 <td width="50%">
 
 
-### 🤖 AI Passport Photo Studio
+## 🤖 AI Passport Photo Studio
 
 
-Computer vision application with:
+Computer vision based application:
 
 - Face detection
 - Background removal
-- Automated photo processing
+- Image processing
 
+
+**Stack**
 
 `Python` `OpenCV` `AI`
 
@@ -242,23 +265,27 @@ Computer vision application with:
 </td>
 
 
+
 <td width="50%">
 
 
-### 🚗 Driver Sleep Detection System
+## 🚗 Driver Sleep Detection System
 
 
 Final year research project:
 
-- Eye monitoring
+- Eye tracking
 - Drowsiness detection
-- Alert system integration
+- Alert system
 
+
+**Stack**
 
 `Python` `OpenCV` `Machine Learning`
 
 
 </td>
+
 
 
 </tr>
@@ -272,22 +299,32 @@ Final year research project:
 
 
 
-<!-- ================= STATS ================= -->
+# 📊 GitHub Statistics
 
-
-## 📊 GitHub Statistics
 
 
 <div align="center">
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MHBOKUL&theme=radical&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=MHBOKUL&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
+
 
 
 <br><br>
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHBOKUL&layout=compact&theme=radical&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MHBOKUL&theme=tokyonight&hide_border=true"/>
+
+
+
+<br><br>
+
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHBOKUL&layout=compact&theme=tokyonight&hide_border=true"/>
+
 
 
 </div>
@@ -298,45 +335,111 @@ Final year research project:
 
 
 
-<!-- ================= CONTACT ================= -->
+# 🏆 GitHub Trophy
 
-
-## 🤝 Connect With Me
 
 
 <div align="center">
 
 
-I am open to freelance projects, collaborations, and opportunities related to WordPress, Web Development, and Software Engineering.
+<img src="https://github-profile-trophy.vercel.app/?username=MHBOKUL&theme=tokyonight&no-frame=true&row=1&column=6">
 
 
-<br><br>
+</div>
+
+
+
+<br>
+
+
+
+# 📈 Contribution Graph
+
+
+
+<div align="center">
+
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MHBOKUL&theme=tokyo-night&hide_border=true">
+
+
+</div>
+
+
+
+<br>
+
+
+
+# 🤝 Connect With Me
+
+
+
+<div align="center">
 
 
 <a href="https://github.com/MHBOKUL">
 
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/badge/GitHub-Visit%20Profile-black?style=for-the-badge&logo=github">
+
 
 </a>
+
 
 
 <a href="https://linkedin.com">
 
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+
 
 </a>
 
 
-<br><br>
+
+<a href="mailto:your-email@example.com">
 
 
-<i>Building digital experiences with clean code and creative ideas.</i>
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
 
 
-<br><br>
+</a>
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
+</div>
+
+
+
+<br>
+
+
+
+# 🐍 Contribution Snake
+
+
+<div align="center">
+
+
+<img src="https://raw.githubusercontent.com/MHBOKUL/MHBOKUL/output/github-contribution-grid-snake.svg">
+
+
+</div>
+
+
+
+<br>
+
+
+
+<div align="center">
+
+
+### 💡 "Building with creativity. Engineering with purpose."
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer">
 
 
 </div>
