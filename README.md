@@ -1,19 +1,19 @@
-<!-- Full-Width Premium Banner From External Source -->
-<img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1964&auto=format&fit=crop" width="100%" alt="Premium Tech Banner" style="border-radius: 0 0 15px 15px; max-height: 320px; object-fit: cover; box-shadow: 0 10px 30px rgba(0,0,0,0.5);"/>
+<!-- Full-Width Modern Tech Banner -->
+<img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1964&auto=format&fit=crop" width="100%" alt="Premium Tech Banner" style="border-radius: 0 0 15px 15px; max-height: 280px; object-fit: cover; box-shadow: 0 10px 30px rgba(0,0,0,0.4);"/>
 
 <br><br>
 
 <div align="center">
 
-<!-- Animated Welcome Title -->
+<!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=normal&color=0f172a&height=80&text=MAHEDI%20HASAN%20BOKUL&fontSize=42&fontColor=38BDF8&animation=fadeIn"/>
 
-<!-- Typing Subtitles -->
+<!-- Typewriter Subtitles -->
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2000&pause=500&color=FFFFFF&center=true&vCenter=true&width=850&lines=Full-Stack+WordPress+Engineer;Plugin+Integrator+%26+Optimization+Expert;Python+%26+Django+Developer;Cyber+Security+Researcher"/>
 
 <br>
 
-<!-- Live Profile Counter Badges -->
+<!-- Badges Grid -->
 <img src="https://komarev.com/ghpvc/?username=MHBOKUL&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS"/>&nbsp;
 <img src="https://img.shields.io/github/followers/MHBOKUL?style=for-the-badge&color=0f172a&labelColor=38BDF8"/>&nbsp;
 <img src="https://img.shields.io/badge/Status-Open%20To%20Work-22C55E?style=for-the-badge"/>
@@ -26,9 +26,9 @@
 
 ## 🧑‍💻 Executive Summary
 
-> **Computer Science Engineer & Next-Gen Web Solutions Architect**
+> **Computer Science Engineer & Next-Gen Web Architect**
 > 
-> আইটি ইন্ডাস্ট্রিতে নিজেকে একজন দক্ষ এবং বহুমুখী (Versatile) ইঞ্জিনিয়ার হিসেবে প্রতিষ্ঠিত করতে আমি কাজ করছি। আমার মূল শক্তি হলো **WordPress & WooCommerce Ecosystem**-এর গভীর জ্ঞান, যার সাথে আমি যুক্ত করেছি **Python & Django** ব্যাকএন্ড আর্কিটেকচার এবং **Cyber Security (SOC)** মাইন্ডসেট। আমি শুধু ওয়েবসাইট বানাই না, সেটির সিকিউরিটি, ইউজার এক্সপেরিয়েন্স (UX) এবং পারফরম্যান্স অপ্টিমাইজেশন নিশ্চিত করি।
+> I am a versatile Software Engineer dedicated to bridging the gap between sophisticated aesthetics and rock-solid functionality. My primary core architecture leverages the **WordPress & WooCommerce Ecosystem**, seamlessly augmented with **Python & Django** backend pipelines and a rigorous **Cyber Security (SOC)** analytical mindset. I specialize in building blazing-fast, secure, and highly scalable digital experiences.
 
 <br>
 
@@ -46,21 +46,39 @@
 
 ## 💎 Specialized Domain Expertise
 
-### 🌐 1. Advanced WordPress & Enterprise E-Commerce
-*   **Dynamic Engine Architecture:** `Crocoblock (JetEngine)` ব্যবহার করে কাস্টম রিলেশনশিপ, অ্যাডভান্সড কুয়েরি এবং মেটা-ফিল্ড দিয়ে ডাইনামিক ডেটা ড্যাশবোর্ড তৈরি।
-*   **High-Converting Funnels:** `WooCommerce` স্টোরের জন্য `FunnelKit` এবং কার্ট অপ্টিমাইজেশনের মাধ্যমে কনভার্সন রেট বৃদ্ধি ও বাউন্স রেট কমানো।
-*   **Automation Booking systems:** রিয়েল-টাইম শিডিউলিংয়ের জন্য `JetBooking` ও `JetAppointment` দিয়ে বুকিং ইঞ্জিন তৈরি।
-*   **EdTech Platforms:** `LearnDash` এবং `Tutor LMS` ব্যবহার করে প্রো-লেভেল কোর্স, কুইজ এবং সার্টিফিকেট ম্যানেজমেন্ট সিস্টেম ডিজাইন।
-
-### 💻 2. Full-Stack Development & Software Engineering
-*   **Robust Backend:** `Python` ও `Django Web Framework` ব্যবহার করে স্কেলেবল, সিকিউর এবং হাই-পারফরম্যান্স API ও ম্যানেজমেন্ট প্যানেল তৈরি।
-*   **Database Management:** `MySQL` ডেটাবেস অপ্টিমাইজেশন, রিলেশনাল ডেটা মডেলিং এবং কুয়েরি পারফরম্যান্স টিউনিং।
-*   **Modern Frontend Control:** কাস্টম `HTML5`, `CSS3 (Flexbox/Grid)` এবং ইন্টারঅ্যাক্টিভ `JavaScript (ES6+)` স্ক্রিপ্টিং।
-
-### 🔐 3. Cyber Security & Infrastructure Control
-*   **Threat Detection & Monitoring:** Security Operations Center (`SOC`) ফান্ডামেন্টাল এবং লগ অ্যানালাইসিস নিয়ে নিয়মিত গবেষণা।
-*   **System Hardening:** `Linux (Ubuntu/Debian)` এন্টারপ্রাইজ এনভায়রনমেন্ট অ্যাডমিনিস্ট্রেশন এবং ওয়েব সার্ভার হার্ডেনিং।
-*   **Vulnerability Assessment:** ওয়েব অ্যাপ্লিকেশন ভালনারেবিলিটি স্ক্যানিং এবং নেটওয়ার্ক লেয়ার সিকিউরিটি অডিটিং।
+<table width="100%">
+  <tr>
+    <td style="background: #0f172a; border: 1px solid #1e293b; border-radius: 12px; padding: 20px;" valign="top">
+      <h3 style="color: #38BDF8; margin-top: 0;">🌐 Advanced WordPress & E-Commerce</h3>
+      <ul>
+        <li><b>Dynamic Architecture:</b> Designing advanced querying, relationship databases, and dynamic front-end loops using <code>Crocoblock (JetEngine)</code>.</li>
+        <li><b>Conversion Engineering:</b> Maximizing retention and cart value via custom checkouts, automated up-sells, and <code>FunnelKit</code> integrations.</li>
+        <li><b>Automated Engine Workflows:</b> Developing fully interactive booking platforms with real-time availability via <code>JetBooking / JetAppointment</code>.</li>
+        <li><b>EdTech Ecosystems:</b> Building advanced learning portals complete with automated grading, quizzes, and dynamic certificates using <code>LearnDash & Tutor LMS</code>.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td style="background: #0f172a; border: 1px solid #1e293b; border-radius: 12px; padding: 20px;" valign="top">
+      <h3 style="color: #38BDF8; margin-top: 15px;">💻 Full-Stack Software Engineering</h3>
+      <ul>
+        <li><b>Robust Backend Pipelines:</b> Programming highly secure, scalable, and performance-optimized server logic using <code>Python</code> and <code>Django</code>.</li>
+        <li><b>Relational Schema Management:</b> Architecting structural data models, optimizing execution speeds, and managing tables inside <code>MySQL</code>.</li>
+        <li><b>Modern UI/UX Development:</b> Implementing semantic interfaces using clean <code>HTML5</code>, complex flex/grid layout <code>CSS3</code>, and standard vanilla <code>JavaScript (ES6+)</code>.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td style="background: #0f172a; border: 1px solid #1e293b; border-radius: 12px; padding: 20px;" valign="top">
+      <h3 style="color: #38BDF8; margin-top: 15px;">🔐 Cyber Security & System Hardening</h3>
+      <ul>
+        <li><b>Threat Intelligence:</b> Continuous deep dives into Security Operations Center (<code>SOC</code>) workflows, event monitoring, and systemic log inspection.</li>
+        <li><b>Server Infrastructure:</b> Configuring and hardening enterprise production environments using <code>Linux (Ubuntu/Debian)</code>.</li>
+        <li><b>Vulnerability Assessments:</b> Auditing code bases for OWASP Top 10 exploits, network tracking, and secure environment isolation.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <br>
 
@@ -68,29 +86,37 @@
 
 ## 🚀 Strategic Projects Showcase
 
-<table>
+<table width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <h3>🎨 Custom Web Ecosystems (WordPress)</h3>
-      <p>মার্কেটপ্লেস ও বিভিন্ন ক্লায়েন্টের জন্য ১০০টিরও বেশি হাই-কনভার্টিং ল্যান্ডিং পেজ, মেম্বারশিপ পোর্টাল এবং ড্রপশিপিং স্টোর ডেভেলপমেন্ট।</p>
-      <code>WordPress</code> <code>Elementor Pro</code> <code>WooCommerce</code> <code>ACF</code>
+    <td width="50%" style="background: #0f172a; border: 1px solid #1e293b; border-radius: 12px; padding: 20px;" valign="top">
+      <h3 style="color: #38BDF8;">🎨 Custom Web Ecosystems</h3>
+      <p>Developed and deployed 100+ highly optimized landing pages, interactive business platforms, and dynamic multi-vendor marketplace architectures.</p>
+      <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Elementor-D54353?style=flat-square&logo=elementor&logoColor=white"/>
+      <img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white"/>
     </td>
-    <td width="50%" valign="top">
-      <h3>🎓 University Management System</h3>
-      <p>একটি সম্পূর্ণ রিলেশনাল সফটওয়্যার যেখানে স্টুডেন্টদের ডাটাবেজ ট্র্যাকিং, সেমিস্টার ভিত্তিক জিপিএ ক্যালকুলেশন এবং ডাইনামিক ট্রান্সক্রিপ্ট জেনারেটর রয়েছে।</p>
-      <code>Python</code> <code>Django</code> <code>MySQL</code> <code>Bootstrap</code>
+    <td width="50%" style="background: #0f172a; border: 1px solid #1e293b; border-radius: 12px; padding: 20px;" valign="top">
+      <h3 style="color: #38BDF8;">🎓 University Management Engine</h3>
+      <p>A comprehensive educational management platform managing student databases, semester result computational pipelines, and dynamic PDF transcript generations.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3>🤖 AI Passport Photo Studio</h3>
-      <p>কম্পিউটার ভিশন প্রযুক্তির সমন্বয়ে তৈরি স্ক্রিপ্ট যা অটোমেটিকভাবে মানুষের মুখ ডিটেক্ট করে নিখুঁতভাবে ব্যাকগ্রাউন্ড রিমুভ করে অফিসিয়াল সাইজে কনভার্ট করে।</p>
-      <code>Python</code> <code>OpenCV</code> <code>AI Processing</code>
+    <td width="50%" style="background: #0f172a; border: 1px solid #1e293b; border-radius: 12px; padding: 20px;" valign="top">
+      <h3 style="color: #38BDF8;">🤖 AI Passport Photo Studio</h3>
+      <p>An automation utility built with advanced computer vision algorithms capable of real-time face tracking, background matting, and sizing compliance configurations.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+      <img src="https://img.shields.io/badge/AI-Automation-FF6F61?style=flat-square"/>
     </td>
-    <td width="50%" valign="top">
-      <h3>🔐 Security & Vulnerability Lab</h3>
-      <p>বিভিন্ন ওপেন সোর্স SOC টুলস ব্যবহার করে ম্যালওয়্যার ট্র্যাকিং, নেটওয়ার্ক ট্রাফিক অ্যানালাইসিস এবং ডিজিটাল ফরেনসিক্স প্র্যাকটিস এনভায়রনমেন্ট।</p>
-      <code>Linux</code> <code>Wireshark</code> <code>SOC Frameworks</code>
+    <td width="50%" style="background: #0f172a; border: 1px solid #1e293b; border-radius: 12px; padding: 20px;" valign="top">
+      <h3 style="color: #38BDF8;">🔐 Defensive Security Labs</h3>
+      <p>Constructed localized testing matrices deploying various open-source SIEM/SOC utilities, executing active packet analysis, and debugging vulnerabilities.</p>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SOC-Framework-00FFE0?style=flat-square"/>
     </td>
   </tr>
 </table>
@@ -108,17 +134,17 @@
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td width="50%" align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=MHBOKUL&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+    <td width="50%" align="center" style="border: none; background: transparent;">
+      <img src="https://github-readme-stats.vercel.app/api?username=MHBOKUL&show_icons=true&theme=tokyonight&hide_border=true" height="185"/>
     </td>
-    <td width="50%" align="center" style="border: none;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=MHBOKUL&theme=tokyonight&hide_border=true" height="180"/>
+    <td width="50%" align="center" style="border: none; background: transparent;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=MHBOKUL&theme=tokyonight&hide_border=true" height="185"/>
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center" style="border: none;">
+    <td colspan="2" align="center" style="border: none; background: transparent;">
       <br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHBOKUL&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHBOKUL&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
     </td>
   </tr>
 </table>
@@ -127,11 +153,11 @@
 
 ---
 
-## 🌐 Dynamic Networking & Socials
+## 🌐 Connect & Collaborate
 
 <div align="center">
 
-<p>নতুন কোনো আইডিয়া নিয়ে আলোচনা বা প্রজেক্ট কোলাবোরেশনের জন্য আমি সবসময় প্রস্তুত। কানেক্ট করুন নিচের মাধ্যমে:</p>
+<p>I am always open to intersecting revolutionary ideas or contributing to high-performance development pipelines. Let's build something exceptional together:</p>
 
 <a href="https://github.com/MHBOKUL" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
