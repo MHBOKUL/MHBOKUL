@@ -23,50 +23,45 @@
 
 <tr>
 
-<td width="65%" valign="top">
+<td width="70%" valign="top">
 
 
-<img align="right" width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" width="280" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
 
 Hello! I'm **Mahedi Hasan Bokul** 👋
 
 
-I'm a **Computer Science Engineer** and **Junior WordPress Developer** from Bangladesh.
+I'm a **Computer Science Engineer** and **Junior WordPress Developer** specializing in building fast, secure, and scalable digital solutions.
 
 
-I build modern websites and digital solutions using:
+My expertise includes:
 
 
-✨ WordPress & Elementor  
-🛒 WooCommerce Ecommerce  
-⚡ Crocoblock JetEngine Dynamic Websites  
-🐍 Python & Django Applications  
-🔐 Security-focused Development  
+🌐 WordPress Website Development  
+🛒 WooCommerce Ecommerce Solutions  
+🎨 Elementor Custom Design  
+⚡ Crocoblock Dynamic Websites  
+🐍 Python & Django Development  
+🗄️ Database Design & Management  
+🔐 Web Security & SOC Fundamentals  
+⚙️ Automation & Workflow Optimization  
 
 
-Currently improving:
+Currently focusing on:
 
 
-- SOC Analyst Skills
-- Linux Security
-- Web Application Security
-- Automation Workflow
+- Advanced WordPress Architecture
+- Server Management
+- Security Monitoring
+- DevOps Practices
+- AI-powered Web Solutions
 
 
-My development philosophy:
+My mindset:
 
 
-**Clean Code • Better Performance • Strong Security**
-
-
-</td>
-
-
-<td width="35%" align="center">
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=MHBOKUL&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+> Build clean. Optimize everything. Secure by design.
 
 
 </td>
@@ -75,10 +70,6 @@ My development philosophy:
 </tr>
 
 </table>
-
-
-
-<br>
 
 
 # 🧰 Tech Stack
@@ -95,43 +86,298 @@ My development philosophy:
 <br>
 
 
-# ⚙️ Technologies
+<!-- ================= WORKFLOW ================= -->
+
+<h1 align="center">
+🔄 Development & Maintenance Workflow
+</h1>
 
 
-| Category | Skills |
-|---|---|
-| CMS | WordPress, Elementor, Crocoblock, JetEngine |
-| Ecommerce | WooCommerce, FunnelKit, Payment Integration |
-| LMS | Tutor LMS, LearnDash, Membership System |
-| Backend | Python, Django, MySQL |
-| Frontend | HTML5, CSS3, JavaScript |
-| Tools | Git, GitHub, Linux, Figma |
-| Security | OWASP Basics, Linux Security, SOC Fundamentals |
+<div align="center">
+
+<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="280">
+
+
+<p>
+Building reliable products through a structured development process.
+</p>
+
+</div>
+
+
+<br>
+
+
+<table width="100%">
+
+
+<tr>
+
+
+<td width="25%" align="center">
+
+
+<img src="https://img.icons8.com/fluency/96/planning.png" width="60">
+
+
+<h3>📋 Planning</h3>
+
+
+Research  
+Client Requirements  
+UI/UX Strategy  
+Project Architecture  
+
+
+</td>
+
+
+
+<td width="25%" align="center">
+
+
+<img src="https://img.icons8.com/fluency/96/code.png" width="60">
+
+
+<h3>💻 Development</h3>
+
+
+WordPress  
+PHP  
+Python  
+Django  
+Custom Features  
+
+
+</td>
+
+
+
+<td width="25%" align="center">
+
+
+<img src="https://img.icons8.com/fluency/96/test.png" width="60">
+
+
+<h3>🧪 Testing</h3>
+
+
+Bug Fixing  
+Performance Testing  
+Security Checking  
+Optimization  
+
+
+</td>
+
+
+
+<td width="25%" align="center">
+
+
+<img src="https://img.icons8.com/fluency/96/cloud.png" width="60">
+
+
+<h3>🚀 Deployment</h3>
+
+
+Linux Server  
+Hosting Setup  
+Git Workflow  
+Backup System  
+
+
+</td>
+
+
+
+</tr>
+
+
+</table>
 
 
 
 <br>
 
 
-# 🚀 What I Do
+<div align="center">
 
 
-<table>
+## 🛠️ Maintenance Cycle
+
+
+</div>
+
+
+<table width="100%">
+
 
 <tr>
+
+
+<td align="center">
+
+
+🔄  
+<br>
+
+**Regular Updates**
+
+<br>
+
+WordPress Core  
+Plugins  
+Dependencies
+
+
+</td>
+
+
+
+<td align="center">
+
+
+⚡  
+<br>
+
+**Performance**
+
+<br>
+
+Cache Optimization  
+Database Cleanup  
+Speed Improvement
+
+
+</td>
+
+
+
+<td align="center">
+
+
+🔐  
+<br>
+
+**Security**
+
+<br>
+
+Malware Scan  
+Firewall Setup  
+Vulnerability Check
+
+
+</td>
+
+
+
+<td align="center">
+
+
+📊  
+<br>
+
+**Monitoring**
+
+<br>
+
+Error Logs  
+Analytics  
+System Health
+
+
+</td>
+
+
+
+</tr>
+
+
+</table>
+
+
+
+<br>
+
+
+<div align="center">
+
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=700&lines=Plan+%E2%86%92+Build+%E2%86%92+Test+%E2%86%92+Deploy+%E2%86%92+Maintain;Creating+secure+and+scalable+digital+solutions">
+
+
+</div>
+<!-- ================= WHAT I DO ================= -->
+
+<h1 align="center">
+🚀 What I Do
+</h1>
+
+
+<div align="center">
+
+Building modern digital solutions with clean code, creative design, and secure architecture.
+
+</div>
+
+
+<br>
+
+
+<table width="100%">
+
+
+<tr>
+
 
 <td width="33%" align="center">
 
 
 ## 🌐
 
-### WordPress Development
+### WordPress Engineering
 
 
-Professional websites, ecommerce stores, membership platforms and dynamic WordPress solutions.
+Building professional websites, business platforms, ecommerce stores, membership systems, and custom WordPress solutions.
+
+
+**Skills**
+
+`WordPress` `Elementor` `PHP` `Crocoblock`
 
 
 </td>
+
+
+
+<td width="33%" align="center">
+
+
+## 🛒
+
+### WooCommerce Solutions
+
+
+Creating online stores with optimized shopping experiences.
+
+
+**Includes**
+
+- Product Management
+- Payment Integration
+- Checkout Optimization
+- Funnel Setup
+
+
+**Skills**
+
+`WooCommerce` `FunnelKit`
+
+
+</td>
+
 
 
 <td width="33%" align="center">
@@ -142,10 +388,73 @@ Professional websites, ecommerce stores, membership platforms and dynamic WordPr
 ### Backend Development
 
 
-Database-driven applications using Python, Django and MySQL.
+Developing database-driven applications with scalable backend architecture.
+
+
+**Skills**
+
+`Python` `Django` `MySQL`
 
 
 </td>
+
+
+
+</tr>
+
+
+
+<tr>
+
+
+
+<td width="33%" align="center">
+
+
+## 🎨
+
+### UI & Frontend Development
+
+
+Creating responsive and user-friendly interfaces.
+
+
+**Skills**
+
+`HTML5` `CSS3` `JavaScript`  
+`Figma` `Elementor`
+
+
+</td>
+
+
+
+<td width="33%" align="center">
+
+
+## 🎓
+
+### LMS & Membership Systems
+
+
+Building online learning platforms and private member portals.
+
+
+**Includes**
+
+- Course Management
+- User Roles
+- Subscription Systems
+- Student Dashboards
+
+
+**Skills**
+
+`Tutor LMS` `LearnDash`
+
+
+</td>
+
 
 
 <td width="33%" align="center">
@@ -153,22 +462,116 @@ Database-driven applications using Python, Django and MySQL.
 
 ## 🔐
 
-### Security Learning
+### Security & Optimization
 
 
-Exploring defensive security, vulnerability testing and SOC operations.
+Improving website security, performance, and reliability.
+
+
+**Focus**
+
+- OWASP Basics
+- Linux Security
+- Malware Checking
+- Performance Optimization
 
 
 </td>
 
 
+
 </tr>
+
+
+
+<tr>
+
+
+
+<td width="33%" align="center">
+
+
+## ⚙️
+
+### Website Maintenance
+
+
+Keeping websites healthy after deployment.
+
+
+**Includes**
+
+- Updates
+- Backups
+- Bug Fixing
+- Speed Optimization
+
+
+</td>
+
+
+
+<td width="33%" align="center">
+
+
+## 🤖
+
+### Automation & AI Integration
+
+
+Creating smarter workflows using automation and AI tools.
+
+
+**Includes**
+
+- API Integration
+- Workflow Automation
+- AI Features
+
+
+</td>
+
+
+
+<td width="33%" align="center">
+
+
+## 🚀
+
+### Deployment & Management
+
+
+Managing websites from development to production.
+
+
+**Includes**
+
+- Hosting Setup
+- Domain Configuration
+- Server Management
+- Git Workflow
+
+
+</td>
+
+
+
+</tr>
+
 
 </table>
 
 
-
 <br>
+
+
+<div align="center">
+
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=700&color=A78BFA&center=true&vCenter=true&width=750&lines=Design+%E2%86%92+Develop+%E2%86%92+Secure+%E2%86%92+Optimize;Turning+ideas+into+scalable+digital+solutions">
+
+
+</div>
 
 
 # 💼 Featured Projects
@@ -284,43 +687,39 @@ Final year research project:
 
 <br>
 
-
-# 📊 GitHub Statistics
+# 📊 Developer Activity
 
 
 <div align="center">
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=MHBOKUL&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MHBOKUL&theme=tokyo-night&hide_border=true">
 
 
 <br><br>
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHBOKUL&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHBOKUL&layout=compact&theme=tokyonight">
 
 
 </div>
 
-
-
-<br>
-
-
-# 🏆 GitHub Trophy
+# 🏆 Developer Journey
 
 
 <div align="center">
 
 
-<img src="https://github-profile-trophy.vercel.app/?username=MHBOKUL&theme=tokyonight&no-frame=true&row=1&column=6">
-
-
-</div>
-
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="350">
 
 
 <br>
+
+
+### Always Learning • Always Building 🚀
+
+
+</div>
 
 
 # 📈 Contribution Graph
@@ -376,6 +775,29 @@ Open for freelance projects, collaborations and developer opportunities.
 
 
 ### 💡 Building digital experiences with clean code and creativity.
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer">
+
+
+</div>
+
+
+
+
+<div align="center">
+
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250">
+
+
+<br>
+
+
+### 🚀 Building the web with creativity & engineering.
+
+
+<br>
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer">
