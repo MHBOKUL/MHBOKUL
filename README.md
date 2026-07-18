@@ -25,7 +25,7 @@
 
 <tr>
 
-<td width="65%">
+<td width="100%">
 
 
 <img align="right" width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
