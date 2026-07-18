@@ -9,7 +9,6 @@
 <br>
 
 
-<img src="https://komarev.com/ghpvc/?username=MHBOKUL&style=for-the-badge&color=6D28D9"/>
 
 
 </div>
