@@ -1,14 +1,14 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=260&section=header&text=MAHEDI%20HASAN%20BOKUL&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0f172a&text=MAHEDI%20HASAN%20BOKUL&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=Computer+Science+Engineer;Junior+WordPress+Developer;Elementor+%7C+WooCommerce+Expert;PHP+%7C+Python+Developer;Cyber+Security+Explorer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=Junior+WordPress+Developer;Elementor+%7C+WooCommerce+Expert;CSE+Student+%7C+Web+Developer;Python+%7C+Django+Developer;Cyber+Security+Explorer"/>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=MHBOKUL&label=PROFILE%20VIEWS&style=for-the-badge&color=38BDF8"/>
+<img src="https://komarev.com/ghpvc/?username=MHBOKUL&style=for-the-badge&label=PROFILE+VIEWS&color=38BDF8"/>
 
 </div>
 
@@ -18,35 +18,32 @@
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-6c1f4e4d-0a1e-4b7b-b3c6-4b7e7d4f2a1e.gif" width="90">
-
-# ⚡ Welcome To My Digital Space
+# 🚀 Welcome To My Digital Portfolio
 
 </div>
 
 
-<br>
-
-
-<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" width="380" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3d5YjB5Z3V1Y3h5d2E0dGZ5c2R5c3J6aWJ4bWZ2aG1qY2F3eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif">
 
 
 ## 👨‍💻 About Me
 
 
-I am **Mahedi Hasan Bokul**, a Computer Science Engineer and Junior WordPress Developer from Bangladesh.
+Hi, I'm **Mahedi Hasan Bokul**.
 
-I build modern, responsive and user-focused websites with clean design and powerful functionality.
+A Computer Science Engineer and Junior WordPress Developer from Bangladesh.
+
+I create modern websites, eCommerce platforms, and business solutions using WordPress ecosystem.
 
 
-### 🚀 Current Focus
+### Current Focus
 
-- 🌐 WordPress Development
-- 🎨 Elementor Website Design
-- 🛒 WooCommerce Solutions
-- ⚡ Website Performance Optimization
-- 🐍 Python & Django Development
-- 🔐 Cyber Security Learning
+🌐 WordPress Development  
+🎨 Elementor Design  
+🛒 WooCommerce Solutions  
+⚡ Website Optimization  
+🐍 Python Development  
+🔐 Cyber Security  
 
 
 <br clear="right"/>
@@ -55,54 +52,70 @@ I build modern, responsive and user-focused websites with clean design and power
 ---
 
 
-# 🧰 My Tech Stack
+# 🧠 Professional Skills
 
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=wordpress,php,html,css,js,python,django,mysql,git,github,linux,vscode,figma&perline=7"/>
-
-</div>
-
-
----
-
-
-# 💼 Professional Skills
 
 
 <table>
 
 <tr>
 
-<td width="50%">
+
+<td width="50%" valign="top">
 
 
-### 🌎 WordPress Development
+## 🌐 WordPress Development
+
+
+<img src="https://cdn-icons-png.flaticon.com/512/174/174881.png" width="60">
+
 
 ✔ Elementor Pro  
+✔ Elementor Custom Design  
 ✔ WooCommerce  
+✔ Crocoblock  
+✔ JetEngine  
+✔ JetSmartFilters  
+✔ JetBooking  
+✔ JetAppointment  
+✔ LearnDash LMS  
+✔ Tutor LMS  
 ✔ Membership Website  
-✔ Landing Page Design  
 ✔ Custom Theme Setup  
 ✔ Plugin Configuration  
+✔ ACF Custom Fields  
+✔ Custom Post Types  
+✔ WPML Multilingual Setup  
+✔ WordPress Security  
+✔ Speed Optimization  
 
 
 </td>
 
 
-<td width="50%">
+<td width="50%" valign="top">
 
 
-### 💻 Programming
+## 💻 Web Development
 
+
+<img src="https://cdn-icons-png.flaticon.com/512/1006/1006363.png" width="60">
+
+
+✔ HTML5  
+✔ CSS3  
+✔ JavaScript  
 ✔ PHP  
 ✔ Python  
 ✔ Django  
-✔ JavaScript  
-✔ HTML5  
-✔ CSS3  
 ✔ MySQL  
+✔ REST API  
+✔ Responsive Design  
+✔ Git & GitHub  
+✔ Database Management  
+✔ UI/UX Implementation  
 
 
 </td>
@@ -110,7 +123,75 @@ I build modern, responsive and user-focused websites with clean design and power
 
 </tr>
 
+
+
+<tr>
+
+
+<td width="50%" valign="top">
+
+
+## 🛒 E-Commerce
+
+
+<img src="https://cdn-icons-png.flaticon.com/512/891/891462.png" width="60">
+
+
+✔ WooCommerce Store  
+✔ Product Management  
+✔ Payment Gateway Setup  
+✔ Checkout Optimization  
+✔ Funnel Builder  
+✔ Cart Optimization  
+✔ Shipping Setup  
+✔ Conversion Landing Page  
+
+
+</td>
+
+
+<td width="50%" valign="top">
+
+
+## 🔐 Security & Research
+
+
+<img src="https://cdn-icons-png.flaticon.com/512/6195/6195699.png" width="60">
+
+
+✔ Linux Basics  
+✔ Network Security  
+✔ SOC Fundamentals  
+✔ Digital Forensics  
+✔ Vulnerability Awareness  
+✔ Web Security  
+
+
+</td>
+
+
+</tr>
+
+
 </table>
+
+
+</div>
+
+
+---
+
+
+# 🛠️ Technology Stack
+
+
+<div align="center">
+
+
+<img src="https://skillicons.dev/icons?i=wordpress,php,html,css,js,python,django,mysql,git,github,linux,vscode,figma&perline=7"/>
+
+
+</div>
 
 
 ---
@@ -119,58 +200,49 @@ I build modern, responsive and user-focused websites with clean design and power
 # 🚀 Featured Projects
 
 
+<div align="center">
+
+
 <table>
 
 
 <tr>
 
 
-<td width="50%" valign="top">
+<td width="50%">
 
 
-## 🥭 WooCommerce E-commerce Store
+## 🌎 WordPress Business Websites
 
 
-Professional online store development.
+Professional website solutions:
 
 
-**Features**
-
-✨ Product Management  
-✨ Checkout Optimization  
-✨ Payment Integration  
-✨ Mobile Responsive Design  
-
-
-**Stack**
-
-WordPress • WooCommerce • Elementor
+✨ Elementor Pro  
+✨ WooCommerce  
+✨ LMS Platform  
+✨ Membership System  
+✨ Performance Optimization  
 
 
 </td>
 
 
 
-<td width="50%" valign="top">
+<td width="50%">
+
 
 
 ## 🎓 University Management System
 
 
-Django based academic platform.
+Django based application:
 
-
-**Features**
 
 ✨ Student Management  
-✨ Result Processing  
+✨ Result System  
 ✨ GPA Calculation  
 ✨ Transcript Generator  
-
-
-**Stack**
-
-Python • Django • MySQL
 
 
 </td>
@@ -183,44 +255,35 @@ Python • Django • MySQL
 <tr>
 
 
-<td width="50%" valign="top">
+<td width="50%">
 
 
 ## 🤖 AI Passport Photo Studio
 
 
-AI powered desktop application.
+Python AI Application:
 
-
-**Features**
 
 ✨ Face Detection  
 ✨ Background Removal  
 ✨ Image Processing  
 
 
-**Stack**
-
-Python • OpenCV • AI
-
-
 </td>
 
 
-
-<td width="50%" valign="top">
-
-
-## 🔐 Cyber Security Journey
+<td width="50%">
 
 
-Learning and exploring:
+## 🔐 Cyber Security Lab
 
 
-✨ SOC Fundamentals  
-✨ Digital Forensics  
+Learning:
+
+
+✨ SOC Tools  
 ✨ Network Security  
-✨ Linux Security  
+✨ Digital Forensics  
 
 
 </td>
@@ -232,25 +295,28 @@ Learning and exploring:
 </table>
 
 
+</div>
+
+
 ---
 
 
-# 📊 GitHub Statistics
+# 📊 GitHub Analytics
 
 
 <div align="center">
 
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=MHBOKUL&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MHBOKUL&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=MHBOKUL&theme=tokyonight&hide_border=true&border_radius=15"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MHBOKUL&theme=tokyonight&hide_border=true"/>
 
 
 <br><br>
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHBOKUL&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHBOKUL&layout=compact&theme=tokyonight&hide_border=true"/>
 
 
 </div>
@@ -259,7 +325,7 @@ Learning and exploring:
 ---
 
 
-# 🐍 Contribution Animation
+# 🐍 Contribution Snake
 
 
 <div align="center">
@@ -280,7 +346,7 @@ Learning and exploring:
 <div align="center">
 
 
-<img src="https://github-profile-trophy.vercel.app/?username=MHBOKUL&theme=tokyonight&no-frame=true&row=1&column=6">
+<img src="https://github-profile-trophy.vercel.app/?username=MHBOKUL&theme=tokyonight&no-frame=true&row=1">
 
 
 </div>
@@ -297,7 +363,7 @@ Learning and exploring:
 
 <a href="https://github.com/MHBOKUL">
 
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github">
 
 
 </a>
@@ -305,7 +371,7 @@ Learning and exploring:
 
 <a href="#">
 
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
 
 
 </a>
@@ -313,7 +379,7 @@ Learning and exploring:
 
 <a href="#">
 
-<img src="https://img.shields.io/badge/Portfolio-22C55E?style=for-the-badge&logo=googlechrome&logoColor=white">
+<img src="https://img.shields.io/badge/Portfolio-22C55E?style=for-the-badge&logo=googlechrome">
 
 
 </a>
@@ -322,16 +388,16 @@ Learning and exploring:
 </div>
 
 
-<br><br>
+<br>
 
 
 <div align="center">
 
 
-### 💙 "Code. Create. Innovate."
+### ⚡ Build. Design. Innovate.
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0f172a&section=footer"/>
 
 
 </div>
